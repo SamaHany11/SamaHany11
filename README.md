@@ -54,8 +54,7 @@
 </p>
 
 - RAG Chatbots
-- OCR Systems
-- HuggingFace
+- OCR & Classification Systems
 - AI API Integration
 
 ---
@@ -66,9 +65,9 @@
   <img src="https://skillicons.dev/icons?i=selenium,postman" />
 </p>
 
+- Postman
 - Selenium
 - TestNG
-- Postman
 
 ---
 
@@ -87,15 +86,13 @@
 
 # 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sama-hany-464131262" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sama%20Hany-blue?style=for-the-badge&logo=linkedin" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sama-hany-464131262">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-</p>
 
-<p align="left">
   <a href="mailto:samafadol@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
