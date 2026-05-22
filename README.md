@@ -37,7 +37,7 @@
 ## 🗄 Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,sql server" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mssql" />
 </p>
 
 - SQL Server
