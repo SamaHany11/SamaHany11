@@ -22,7 +22,7 @@
 ## 💻 Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
 - Java
@@ -37,7 +37,7 @@
 ## 🗄 Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sql server" />
 </p>
 
 - SQL Server
@@ -97,20 +97,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/SamaHany11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SamaHany11-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamaHany11&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaHany11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
